@@ -12,5 +12,5 @@ Blog with a CMS for the Introduction to Web Development course.
 - Een gebruiker kan zich registreren maar niet als admin. De gebruikersrollen kunnen in de backend (/admin) worden aangepast door een geautoriseerde gebruiker en gebruikers kunnen ook worden verwijderd. Het laatste zorgt momenteel echter voor problemen bij het tonen van berichten van gebruikers die dan niet meer bestaan. Dus deze feature kan voorlopig dus beter niet worden gebruikt, moet nog worden gefixt.
 
 - Admin account:
-	email: admin@admin.com
-	password: password
+	- email: admin@admin.com
+	- password: password
